@@ -1,2 +1,2 @@
 # hello-world
-Programa que mostra no console a frase "Hello World"!
+Programa que mostra no console do usuario a frase "Hello World"!
